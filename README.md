@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @syifaaina
+- 👀 I’m interested in becoming a software engineer/software tester
+- 🌱 I’m currently learning PHP, laravel
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+      LinkedIn - https://www.linkedin.com/in/syifa-zahaimi-b88046207/
